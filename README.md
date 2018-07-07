@@ -15,9 +15,8 @@ This module implements Geometric Algebras (a.k.a. Clifford algebras). Geometric 
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/clifford-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/clifford-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/clifford-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/clifford-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/clifford-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/clifford-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/clifford-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/clifford-feedstock)
 
 Current release info
 ====================

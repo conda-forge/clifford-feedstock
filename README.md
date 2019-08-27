@@ -1,7 +1,3 @@
-<!--
-# -*- mode: jinja -*-
--->
-
 About clifford
 ==============
 
@@ -19,8 +15,15 @@ This module implements Geometric Algebras (a.k.a. Clifford algebras). Geometric 
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/clifford-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/clifford-feedstock)
+
+<table><tr><td>All platforms:</td>
+    <td>
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=2834&branchName=master">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/clifford-feedstock?branchName=master">
+      </a>
+    </td>
+  </tr>
+</table>
 
 Current release info
 ====================

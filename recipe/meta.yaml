@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/pygae/{{ name }}/archive/v{{ version }}.zip
-  sha256: e7d2287a77e39d015fe4435d69ba2b8c53797cd2632462400e927abcee899cef
+  sha256: 27251c2416d3c1927d5cfc783f655699b6a186fd59fcf733705959cb70924bf5
 
 build:
   noarch: python

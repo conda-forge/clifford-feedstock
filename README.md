@@ -118,5 +118,6 @@ Feedstock Maintainers
 =====================
 
 * [@arsenovic](https://github.com/arsenovic/)
-* FIXME
+* [@eric-wieser](https://github.com/eric-wieser/)
+* [@hugohadfield](https://github.com/hugohadfield/)
 

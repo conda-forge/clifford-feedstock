@@ -13,14 +13,13 @@ build:
   noarch: python
   number: 1
   script: {{ PYTHON }} -m pip install . --no-deps -vv
-  skip: True  # [py<35]
 
 requirements:
   host:
     - python
     - pip   
   run:
-    - python
+    - python >= 3.5
     - numpy
     - scipy
     - numba

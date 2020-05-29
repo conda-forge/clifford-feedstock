@@ -22,7 +22,7 @@ requirements:
     - python >=3.5
     - numpy
     - scipy
-    - numba
+    - numba > 0.46, != 0.49.0rc1, < 0.50.0
     - sparse
     - h5py
 

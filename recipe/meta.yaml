@@ -1,5 +1,5 @@
 {% set name = "clifford" %}
-{% set version = "1.4.0" %}
+{% set version = "1.5.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/pygae/{{ name }}/archive/v{{ version }}.zip
-  sha256: cc9e3aa6fd61603efdfae84b0b032b0cef79c9d003f775adcbc17bb73e817bea
+  sha256: c1b9471c94508c1aa35ff3aa2d5515958d0c6d55c1f6e73dd108e26a79ed4975
 
 build:
   noarch: python
